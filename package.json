@@ -1,0 +1,17 @@
+{
+  "name": "quiz_bot",
+  "version": "1.0.0",
+  "author": "",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20",
+    "telegraf": "^4.11.2"
+  },
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  }
+}
